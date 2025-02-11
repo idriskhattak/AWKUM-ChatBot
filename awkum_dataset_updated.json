@@ -1,0 +1,207 @@
+[
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What undergraduate programs are offered at AWKUM?",
+        "Model Answer": "AWKUM offers undergraduate programs in fields such as Computer Science, Business Administration, English, Physics, and Mathematics."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How can I apply for admission at AWKUM?",
+        "Model Answer": "You can apply for admission through the AWKUM online admission portal. Visit the official website, create an account, fill out the application form, and upload the required documents."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the admission deadline for the current academic year?",
+        "Model Answer": "The admission deadline for the current academic year is typically in August. Please check the official website for the exact date."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What are the eligibility criteria for undergraduate programs at AWKUM?",
+        "Model Answer": "The eligibility criteria include a minimum of 50% marks in intermediate or equivalent qualifications. Some programs may have additional requirements."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Is there an entrance test required for admission to AWKUM?",
+        "Model Answer": "Yes, certain programs at AWKUM require an entrance test for admission. Details can be found on the admissions page of the official website."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How do I submit my admission fee?",
+        "Model Answer": "The admission fee can be submitted through bank challan available on the AWKUM admission portal. After submission, upload the challan copy to your application."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What documents are required for the admission process?",
+        "Model Answer": "Required documents include academic transcripts, CNIC/B-Form, passport-sized photographs, and proof of payment of the admission fee."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Can international students apply to AWKUM?",
+        "Model Answer": "Yes, international students can apply to AWKUM. They must meet the admission criteria and provide relevant documents like a passport, visa, and equivalency certificates."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Is there an online application portal for admissions?",
+        "Model Answer": "Yes, AWKUM has an online application portal for admissions. You can access it through the official university website."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the admission process for transfer students?",
+        "Model Answer": "Transfer students need to provide transcripts from their current institution, a migration certificate, and meet the eligibility criteria set by AWKUM."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM offer scholarships?",
+        "Model Answer": "Yes, AWKUM offers merit-based, need-based, and external scholarships. Details are available on the scholarships section of the official website."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the tuition fee for undergraduate programs at AWKUM?",
+        "Model Answer": "The tuition fee varies by program. Please refer to the AWKUM fee structure available on the admissions page for detailed information."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Are there hostel facilities available for students?",
+        "Model Answer": "Yes, AWKUM provides separate hostel facilities for male and female students with basic amenities and 24/7 security."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the contact number of AWKUM's admission office?",
+        "Model Answer": "You can contact AWKUM's admission office at +92-937-920869 for any admission-related queries."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How can I track my admission application status?",
+        "Model Answer": "You can track your admission application status through the online admission portal by logging into your account."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM offer postgraduate programs?",
+        "Model Answer": "Yes, AWKUM offers MPhil, MS, and PhD programs in various disciplines. Visit the postgraduate section on the official website for details."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the grading system at AWKUM?",
+        "Model Answer": "AWKUM follows a GPA-based grading system, with grades ranging from A+ to F, depending on the percentage achieved."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Can I apply for multiple programs at AWKUM?",
+        "Model Answer": "Yes, you can apply for multiple programs, but separate applications are required for each program."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM offer online courses?",
+        "Model Answer": "Yes, AWKUM offers some online courses and distance learning programs. Check the e-learning section of the website for details."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the language of instruction at AWKUM?",
+        "Model Answer": "The primary language of instruction at AWKUM is English, although some programs may include courses in Urdu or Pashto."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Are there any sports facilities available on campus?",
+        "Model Answer": "Yes, AWKUM has sports facilities including cricket grounds, football fields, basketball courts, and indoor game rooms."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM provide transportation for students?",
+        "Model Answer": "Yes, AWKUM provides transportation services for students from various parts of the city."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What are the library facilities at AWKUM?",
+        "Model Answer": "AWKUM has a central library with a wide collection of books, research papers, digital resources, and study spaces."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Is there a career counseling center at AWKUM?",
+        "Model Answer": "Yes, AWKUM has a Career Counseling Center that helps students with job placements, internships, and career advice."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How can I reset my AWKUM student portal password?",
+        "Model Answer": "You can reset your password by clicking on the 'Forgot Password' option on the student portal login page."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the process for degree verification at AWKUM?",
+        "Model Answer": "Degree verification can be done by submitting a verification request form along with required documents to the registrar’s office."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM have student clubs and societies?",
+        "Model Answer": "Yes, AWKUM has various student clubs and societies focusing on academic, cultural, and extracurricular activities."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the fee refund policy at AWKUM?",
+        "Model Answer": "The fee refund policy depends on the time of withdrawal. Refer to the admissions policy section for detailed information."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Can I apply for AWKUM admission as an international student?",
+        "Model Answer": "Yes, international students are welcome to apply. They must meet eligibility criteria and submit additional documents like passport copies and visa details."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM have partnerships with international universities?",
+        "Model Answer": "Yes, AWKUM has academic collaborations with several international universities for student exchange programs and research partnerships."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the process for applying for a scholarship at AWKUM?",
+        "Model Answer": "Students can apply for scholarships through the financial aid office or by filling out online scholarship application forms on the university website."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Are there any part-time job opportunities for students at AWKUM?",
+        "Model Answer": "Yes, AWKUM offers part-time job opportunities for students within the campus, especially in administrative roles and research projects."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM offer any language courses?",
+        "Model Answer": "Yes, AWKUM offers language courses such as English, Arabic, and Chinese for students interested in improving their language skills."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How can I contact AWKUM’s student affairs office?",
+        "Model Answer": "You can contact the student affairs office via email at student.affairs@awkum.edu.pk or call the university helpline."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What is the hostel fee structure at AWKUM?",
+        "Model Answer": "The hostel fee structure varies depending on room type and facilities. Details are available on the AWKUM website under the hostel section."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How do I obtain my transcripts from AWKUM?",
+        "Model Answer": "You can apply for transcripts through the student portal or by submitting a request at the registrar’s office."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Are there any special admission quotas at AWKUM?",
+        "Model Answer": "Yes, AWKUM offers special admission quotas for minorities, disabled students, and other reserved categories as per government policies."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Does AWKUM offer Ph.D. programs?",
+        "Model Answer": "Yes, AWKUM offers Ph.D. programs in disciplines such as Computer Science, Management Sciences, and Biological Sciences."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "Is there an alumni network at AWKUM?",
+        "Model Answer": "Yes, AWKUM has an active alumni network that organizes events, provides mentorship, and supports current students with career guidance."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "What are the medical facilities available at AWKUM?",
+        "Model Answer": "AWKUM has an on-campus medical center providing basic healthcare services to students and staff."
+    },
+    {
+        "System Prompt": "You are an academic advisor for Abdul Wali Khan University Mardan (AWKUM). Provide university-specific information.",
+        "User Prompt": "How can I apply for a migration certificate from AWKUM?",
+        "Model Answer": "You can apply for a migration certificate through the student portal or by submitting a request at the registrar’s office with the required documents."
+    }
+]
